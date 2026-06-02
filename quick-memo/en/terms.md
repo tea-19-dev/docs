@@ -78,6 +78,14 @@ Nothing in these Terms shall limit any rights you have under applicable consumer
 
 The Application may offer subscriptions or in-app purchases to access paid or additional features. Before making a purchase, please review the price, period, content, whether a free trial is available, and any other terms displayed at the time of purchase.
 
+**About the Premium Plan (Subscription)**
+
+*   Subscription title: Premium Plan
+*   Annual plan: JPY 4,800/year (equivalent to JPY 400/month, shown as 20% off compared with the monthly plan)
+*   Monthly plan: JPY 500/month
+*   Free trial period: 1 month (one-time only)
+*   Unless cancelled by the day before the trial ends, the subscription automatically converts to the selected paid plan and billing starts after the free trial.
+
 Subscriptions are charged to your Apple ID and automatically renew unless auto-renewal is turned off at least 24 hours before the end of the current period. To stop auto-renewal, cancel, change your plan, or check your purchase status, use your App Store account settings or the subscription management screen provided by Apple. Uninstalling the Application does not automatically cancel your subscription.
 
 If a free trial is offered, it may convert to a paid period and billing may begin according to the displayed terms unless you cancel before the trial ends. Free trials, discounts, and promotions may not be available depending on region, timing, usage status, or Apple's rules.
